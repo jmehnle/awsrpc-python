@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Build
+build/
+dist/
+.mypy_cache/
+*.egg-info/
+
+# Environment
+.env/
+.DS_Store
+
+# Vim
+.*.sw?
+.sw?
